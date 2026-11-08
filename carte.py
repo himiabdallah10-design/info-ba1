@@ -1,0 +1,2 @@
+def carte():
+    return "blabla"
