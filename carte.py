@@ -1,2 +1,2 @@
 def carte():
-    return "blabla"
+    return "ahahah"
